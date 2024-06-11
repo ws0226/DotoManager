@@ -1,0 +1,96 @@
+
+/* Class = "UITextField"; placeholder = "학번"; ObjectID = "75r-8r-96N"; */
+"75r-8r-96N.placeholder" = "학번";
+
+/* Class = "UIViewController"; title = "TodoList"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "TodoList";
+
+/* Class = "UIButton"; configuration.title = "Sort by:"; ObjectID = "CoP-Zz-0De"; */
+"CoP-Zz-0De.configuration.title" = "Sort by:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CoP-Zz-0De"; */
+"CoP-Zz-0De.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EWW-oB-opm"; */
+"EWW-oB-opm.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KIX-At-BZl"; */
+"KIX-At-BZl.text" = "Label";
+
+/* Class = "UIViewController"; title = "Setting"; ObjectID = "LtE-EB-4rK"; */
+"LtE-EB-4rK.title" = "Setting";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NQO-of-Gdz"; */
+"NQO-of-Gdz.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OHH-tx-5Ji"; */
+"OHH-tx-5Ji.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "Puk-6N-CjL"; */
+"Puk-6N-CjL.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Puk-6N-CjL"; */
+"Puk-6N-CjL.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Tvk-23-DYT"; */
+"Tvk-23-DYT.text" = "Label";
+
+/* Class = "UIViewController"; title = "CalendarView"; ObjectID = "UOW-0o-y1b"; */
+"UOW-0o-y1b.title" = "CalendarView";
+
+/* Class = "UIViewController"; title = "Login View"; ObjectID = "ZxB-En-d6h"; */
+"ZxB-En-d6h.title" = "Login View";
+
+/* Class = "UISegmentedControl"; acp-VL-Q0M.segmentTitles[0] = "All"; ObjectID = "acp-VL-Q0M"; */
+"acp-VL-Q0M.segmentTitles[0]" = "All";
+
+/* Class = "UISegmentedControl"; acp-VL-Q0M.segmentTitles[1] = "Assigment"; ObjectID = "acp-VL-Q0M"; */
+"acp-VL-Q0M.segmentTitles[1]" = "Assigment";
+
+/* Class = "UISegmentedControl"; acp-VL-Q0M.segmentTitles[2] = "Lecture"; ObjectID = "acp-VL-Q0M"; */
+"acp-VL-Q0M.segmentTitles[2]" = "Lecture";
+
+/* Class = "UISegmentedControl"; bkY-0c-0RY.segmentTitles[0] = "Date Order"; ObjectID = "bkY-0c-0RY"; */
+"bkY-0c-0RY.segmentTitles[0]" = "Date Order";
+
+/* Class = "UISegmentedControl"; bkY-0c-0RY.segmentTitles[1] = "Due Order"; ObjectID = "bkY-0c-0RY"; */
+"bkY-0c-0RY.segmentTitles[1]" = "Due Order";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fGf-4q-xO0"; */
+"fGf-4q-xO0.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gXY-ug-9Sy"; */
+"gXY-ug-9Sy.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gmf-d7-4ik"; */
+"gmf-d7-4ik.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "qGS-0R-PR9"; */
+"qGS-0R-PR9.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qGS-0R-PR9"; */
+"qGS-0R-PR9.normalTitle" = "Button";
+
+/* Class = "UISegmentedControl"; sOt-zN-gt2.segmentTitles[0] = "All"; ObjectID = "sOt-zN-gt2"; */
+"sOt-zN-gt2.segmentTitles[0]" = "All";
+
+/* Class = "UISegmentedControl"; sOt-zN-gt2.segmentTitles[1] = "Done"; ObjectID = "sOt-zN-gt2"; */
+"sOt-zN-gt2.segmentTitles[1]" = "Done";
+
+/* Class = "UISegmentedControl"; sOt-zN-gt2.segmentTitles[2] = "Todo"; ObjectID = "sOt-zN-gt2"; */
+"sOt-zN-gt2.segmentTitles[2]" = "Todo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tFX-Ev-Wit"; */
+"tFX-Ev-Wit.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Log in"; ObjectID = "x4E-Iv-l0E"; */
+"x4E-Iv-l0E.configuration.title" = "Log in";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "x4E-Iv-l0E"; */
+"x4E-Iv-l0E.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xst-cJ-bRr"; */
+"xst-cJ-bRr.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "비밀번호"; ObjectID = "zXa-ls-Y4H"; */
+"zXa-ls-Y4H.placeholder" = "비밀번호";
