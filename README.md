@@ -30,4 +30,4 @@ Ios Application project for HS
 
 
 #### 2.3 프로젝트 설명 영상
-!(https://youtu.be/Wt24gUAvcDA)
+https://youtu.be/Wt24gUAvcDA
